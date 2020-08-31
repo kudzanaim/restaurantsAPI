@@ -54,7 +54,6 @@ app.get('/:userid', async(req,res)=>{
 
 // Filter by Distance:
 app.get('/:userid/distance/:milesToFilterBy', async(req,res)=>{
-    // const location = axios.get(`http://api.ipstack.com/${req.ip}?access_key=c33afbf8f98d873b6f3cc3104af4726b`).then(r=>r).catch(err=>err);
     const {userid, milesToFilterBy} = req.params;
     const data = await DB.get();
     const location = await axios.get(`http://api.ipstack.com/${req.ip}?access_key=c33afbf8f98d873b6f3cc3104af4726b`).then(response => response).catch(error => error);
