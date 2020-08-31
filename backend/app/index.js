@@ -32,6 +32,16 @@ const databaseUpdate = async ({res, data, userid, user, restaurant, type})=>{
 }
 
 // List All Restaurants:
+app.get('/', async(req,res)=>{
+    return res.status(200).send(`
+    <div style="width:100%; padding-top:150px; text-align:center">
+        <h1 style="font-size:60px">Welcome to my Restaurants API</h1>
+        <br/> 
+        <p style="font-size: 20px;font-family: monospace;">This is a NodeJS API for helps member to decide where to dine.</p>
+    </div>
+`)
+});
+// List All Restaurants:
 app.get('/:userid', async(req,res)=>{
     const userid = req.params.userid;
     const location = await axios.get(`http://api.ipstack.com/${req.ip}?access_key=c33afbf8f98d873b6f3cc3104af4726b`).then(response => response).catch(error => error);
