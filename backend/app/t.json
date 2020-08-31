@@ -1,0 +1,146 @@
+{
+    "users":{
+        "1":{
+            "id":"1",
+            "name":"John Macky",
+            "favourites":{
+                "all":"here"
+            },
+            "blacklisted":{
+                "all":"here"
+            }
+        },
+        "2":{
+            "id":2,
+            "name":"Mike Ariel",
+            "favourites":{
+                "all":"here"
+            },
+            "blacklisted":{
+                "all":"here"
+            }
+        },
+        "3":{
+            "id":"3",
+            "name":"Mo Kelly",
+            "favourites":{
+                "all":"here"
+            },
+            "blacklisted":{
+                "all":"here"
+            }
+        }
+    },
+    "restaurants":{
+        "-EededEDEdeDEDde":{
+            "id":"EededEDEdeDEDde",
+            "name":"The SÔS Pasta",
+            "postCode":"M5V 2E3",
+            "city":"Toronto",
+            "country":"Canada",
+            "latitude":"43.648517",
+            "longitude":"-79.39079",
+            "openTime":16,
+            "closeTime":22
+        },
+        "-KoZKPvnuf3uZybH":{
+            "id":"EededEDEdeDEDde",
+            "name":"Favorites",
+            "postCode":"M6J 2Z6",
+            "city":"Toronto",
+            "country":"Canada",
+            "longitude":"-79.419799",
+            "latitude":"43.647458",
+            "openTime":17,
+            "closeTime":22
+        },
+        "-bp1yoxBpW3Icl23":{
+            "id":"EededEDEdeDEDde",
+            "name":"Herby Restaurant",
+            "postCode":"M4K 1P1",
+            "city":"Toronto",
+            "country":"Canada",
+            "latitude":"43.6774264",
+            "longitude":"-79.351688",
+            "openTime":12,
+            "closeTime":22
+        },
+        "-mDFehmHvEOEDRVT":{
+            "id":"EededEDEdeDEDde",
+            "name":"Ascari",
+            "postCode":"M5V 1M5",
+            "city":"Toronto",
+            "country":"Canada",
+            "latitude":"43.6441617",
+            "longitude":"-79.4011886",
+            "openTime":10,
+            "closeTime":23
+        },
+        "-eOxJaAXgnw9NONf":{
+            "id":"EededEDEdeDEDde",
+            "name":"Dreyfus",
+            "postCode":"M5S 1G6",
+            "city":"Toronto",
+            "country":"Canada",
+            "latitude":"43.6625684",
+            "longitude":"-79.4036426",
+            "openTime":17,
+            "closeTime":22
+        },
+        "-0oc7v5wdF1MD0ae":{
+            "id":"EededEDEdeDEDde",
+            "name":"Maison Selby",
+            "postCode":"M4X 1L4",
+            "city":"Toronto",
+            "country":"Canada",
+            "latitude":"43.670997",
+            "longitude":"-79.376858",
+            "openTime":11,
+            "closeTime":21
+        },
+        "-VwFEuaRGevtjtrh":{
+            "id":"EededEDEdeDEDde",
+            "name":"Donna’s",
+            "postCode":"M6H 3Z2",
+            "city":"Toronto",
+            "country":"Canada",
+            "latitude":"43.663674",
+            "longitude":"-79.444942",
+            "openTime":11,
+            "closeTime":21
+        },
+        "-MxVJH969Uy8KmeP":{
+            "id":"EededEDEdeDEDde",
+            "name":"Fet Zun",
+            "postCode":"M5R 1V7",
+            "city":"Toronto",
+            "country":"Canada",
+            "latitude":"43.6752243",
+            "longitude":"-79.4058803",
+            "openTime":16,
+            "closeTime":21
+        },
+        "-vPS9OF8It6yPotx":{
+            "id":"EededEDEdeDEDde",
+            "name":"Seoul Shakers",
+            "postCode":"M6H 1N6",
+            "city":"Toronto",
+            "country":"Canada",
+            "latitude":"43.658546",
+            "longitude":"-79.440893",
+            "openTime":18,
+            "closeTime":2
+        },
+        "-kjl8zPp0dqgThZF":{
+            "id":"EededEDEdeDEDde",
+            "name":"Bar Vendetta",
+            "postCode":"M6J 1W3",
+            "city":"Toronto",
+            "country":"Canada",
+            "latitude":"43.6508842",
+            "longitude":"-79.4132695",
+            "openTime":17,
+            "closeTime":23
+        }
+    } 
+}
